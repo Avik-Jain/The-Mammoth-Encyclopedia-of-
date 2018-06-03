@@ -1,7 +1,7 @@
 Section 2
 Video 5
 
-###What is Truthy and Falsy in python? How is it different from True and False?
+### What is Truthy and Falsy in python? How is it different from True and False?
 
 This condition is kind of weird the name variable is set to whatever the user is typed in but input
 will be returning a string value not a boolean true or false value.
@@ -27,7 +27,7 @@ The idea of terms like "truthy" and "falsy" simply refer to those values which a
 For example, an empty list ([]) is considered "falsy", and a non-empty list (for example, [1]) is considered "truthy".
 
 
-###To recap an if statement can be used to conditionally execute code depending on whether or not the if statements condition is true or false.
+### To recap an if statement can be used to conditionally execute code depending on whether or not the if statements condition is true or false.
 
 In l if that is an else if statement can follow an if statement in its block executes if the condition is true and all the previous conditions have been false in.
 
