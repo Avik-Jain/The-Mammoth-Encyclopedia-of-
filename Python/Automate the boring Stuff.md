@@ -37,3 +37,20 @@ Its block is executed if all the previous conditions have been false.
 
 And finally the values zero zero point zero and the empty string are considered to be false values when used in conditions they are considered to be the same as the false Boolean values.
 You can always see which for yourself which values are truth your falsie by passing them to the bool function
+
+
+Section 2 
+Lecture 2
+### To recap while statements are similar to if statements except that once the execution reaches the end
+
+of a while statements block it jumps back to the start and rechecks condition.
+
+If you ever get stuck in a loop where you just want to quickly terminate your python program you can
+
+just press control.
+
+See a break statement will cause the execution to immediately leave the loop without rechecking the
+
+condition and a continue statement will cause the execution to immediately jump back to the start of
+
+a loop and recheck the condition.
