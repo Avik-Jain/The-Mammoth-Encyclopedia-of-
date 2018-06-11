@@ -125,4 +125,23 @@ There is only one copy of that object in a given Python interpreter session.
 
 If you write a function, and that function doesn't use an explicit return statement, None is returned instead, for example. That way, programming with functions is much simplified; a function always returns something, even if it is only that one None object.
 
-## Lecture 10 
+# Section 6
+
+## Lecture 13
+
+to recap a list is a value that contains multiple values the values in the list are also called items.
+
+You can access items in a list with its integer index.
+
+Remember the first index is zero not one.
+
+You can also use negative indexes negative 1 refers to the last item negative 2 refers to the second
+to last item and so on.
+
+You can get multiple items from the list using a slice.
+
+The new list items start at the first index and go up to but don't include the second index the len
+function concatenation and replication work the same way with with that and the way that they do with
+strings.
+
+And you can convert a value into a list by passing it to the list function
